@@ -1,0 +1,48 @@
+.carousel-inner {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.d-block {
+    height: 500px;
+    border: solid 1px;
+    border-radius: 20px;
+}
+
+
+/* @media(max-width:800px) {
+
+    .gallery {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gallery__row {
+        display: flex;
+        flex-direction: column;
+    }
+} */
+
+.extra {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.extra span a {
+    text-decoration: none;
+}
+
+
+footer.bg-gray {
+    background-color: black;
+}
+
+.links-title {
+    color: gray;
+}
+
+.list-unstyled li a {
+    color: white;
+    text-decoration: none;
+}
